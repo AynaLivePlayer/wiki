@@ -1,0 +1,38 @@
+site_name: 卡西米尔唱片机使用文档
+site_url: https://wiki.biliaudiobot.com/home
+
+theme:
+  name: material
+  palette:
+    primary: light blue
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - search.suggest
+    - navigation.indexes
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - 主页: 
+    - home/index.md
+    - 相关链接: home/links.md
+  - 教程: about.md
+  - 开发文档:
+    - development/index.md
+    - Websocket通信:
+      - 简介: development/wshub/index.md
+    - 本体开发:
+      - 简介: development/main/index.md
+
+plugins:
+  - search
+
+repo_url: https://github.com/AynaLivePlayer/AynaLivePlayer
+repo_name: AynaLivePlayer/AynaLivePlayer
+
