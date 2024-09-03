@@ -12,7 +12,7 @@ theme:
     - navigation.sections
     - navigation.path
     - search.suggest
-    - navigation.indexes
+    # - navigation.indexes
 
 markdown_extensions:
   - attr_list
@@ -22,9 +22,10 @@ nav:
   - 主页: 
     - home/index.md
     - 相关链接: home/links.md
-  - 教程: about.md
+  - 教程:
+    - 配置文件: tutorial/config.md
   - 开发文档:
-    - development/index.md
+    - 软件架构: development/index.md
     - Websocket通信:
       - 简介: development/wshub/index.md
     - 本体开发:
