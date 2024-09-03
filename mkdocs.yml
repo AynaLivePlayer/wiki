@@ -23,6 +23,7 @@ nav:
     - home/index.md
     - 相关链接: home/links.md
   - 教程:
+    - 歌曲源登陆: tutorial/source_login.md
     - 配置文件: tutorial/config.md
   - 开发文档:
     - 软件架构: development/index.md
