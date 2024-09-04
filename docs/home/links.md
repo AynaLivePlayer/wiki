@@ -6,4 +6,5 @@
   ![](../assets/IMG_8591.jpg){ width="300"}
 </figure>
 - 作者QQ: 329393248
+- 作者邮箱: aynakeya.official@gmail.com
 - More 

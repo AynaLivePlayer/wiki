@@ -2,3 +2,4 @@
 
 默认连接地址为，`ws://localhost:29629/wsinfo`，可以在`设置`->`Websocket服务器`中修改/开启相关设置。
 
+所有的事件结构均可以在[core/events](https://github.com/AynaLivePlayer/AynaLivePlayer/tree/master/core/events)中找到
