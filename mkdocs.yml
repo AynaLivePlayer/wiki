@@ -22,14 +22,17 @@ nav:
   - 主页: 
     - home/index.md
     - 相关链接: home/links.md
+    - 收支一览: home/money.md
   - 教程:
     - 歌曲源登陆: tutorial/source_login.md
     - 文本输出: tutorial/textinfo.md
     - 网页输出: tutorial/webinfo.md
+    - 软件升级: tutorial/software_upgrade.md
     - 配置文件: tutorial/config.md
   - 常见问题:
     - 常见问题: faq/question.md
     - 文本输出相关: faq/textinfo.md
+    - 网页输出相关: faq/webinfo.md
   - 开发文档:
     - 软件架构: development/index.md
     - Websocket通信:

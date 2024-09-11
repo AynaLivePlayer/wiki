@@ -25,9 +25,7 @@
 
 如果第一个入口无法访问，可以尝试使用第二个备用地址，如果都不行，请联系作者。
 
-## 教程
-
-TBD
+## 视频教程
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1103725583&bvid=BV1Zw4m1y7xQ&cid=25758138597&p=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="720px" height="480"></iframe>
 
