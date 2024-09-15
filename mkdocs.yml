@@ -21,7 +21,9 @@ markdown_extensions:
 nav:
   - 主页: 
     - home/index.md
+    - 效果展示: home/user_show.md
     - 相关链接: home/links.md
+    - 更新日志: home/updates.md
     - 收支一览: home/money.md
   - 教程:
     - 歌曲源登陆: tutorial/source_login.md
