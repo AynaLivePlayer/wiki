@@ -25,6 +25,8 @@
 
 **FixedSize**：定义窗口是否是固定大小。`true` 表示窗口大小固定，`false` 表示窗口大小可调整。
 
+**EnableSMC**: 是否启用SMTC(windows system media transport control), 对于旧版本windows可能不兼容，`true` 表示启用，`false` 表示不启用。
+
 
 ## [Log]
 日志配置。
