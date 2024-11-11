@@ -18,6 +18,48 @@ TBD
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1103725583&bvid=BV1Zw4m1y7xQ&cid=1626292156&p=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="720px" height="480"></iframe>
 
+## 食用示例
+
+### 只有歌词
+
+假如你有`template/lyric.txt`文件
+```text
+ {{ .Lyric}}
+```
+
+会在`txtinfo/lyric.txt`中输出
+
+```text
+This night is cold in the kingdom
+```
+
+### 只有歌词
+
+假如你有`template/lyric.txt`文件
+```text
+ {{ .Lyric}}
+```
+
+会在`txtinfo/lyric.txt`中输出
+
+```text
+This night is cold in the kingdom
+```
+
+### 当前歌曲信息
+
+假如你有`template/current.txt`文件
+```text
+歌名: {{ .Current.Title }} 点歌用户: {{ .Current.Username }}
+```
+
+会在`txtinfo/current.txt`中输出
+
+```text
+歌名: Let Me Down Slowly 点歌用户: Aynakeya
+```
+
+
 ## 附录1: 模板占位符列表
 
 ### 基本信息
