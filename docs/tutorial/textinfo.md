@@ -33,19 +33,6 @@ TBD
 This night is cold in the kingdom
 ```
 
-### 只有歌词
-
-假如你有`template/lyric.txt`文件
-```text
- {{ .Lyric}}
-```
-
-会在`txtinfo/lyric.txt`中输出
-
-```text
-This night is cold in the kingdom
-```
-
 ### 当前歌曲信息
 
 假如你有`template/current.txt`文件
