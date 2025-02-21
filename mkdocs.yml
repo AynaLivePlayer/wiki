@@ -25,6 +25,11 @@ nav:
     - 相关链接: home/links.md
     - 更新日志: home/updates.md
     - 收支一览: home/money.md
+  - 功能介绍:
+    - 点歌: features/diange.md
+    - WebUI: features/webui.md
+    - 文本输出: features/textinfo.md
+    - 网页输出: features/webinfo.md
   - 教程:
     - 歌曲源登陆: tutorial/source_login.md
     - 文本输出: tutorial/textinfo.md
@@ -35,6 +40,7 @@ nav:
     - 常见问题: faq/question.md
     - 文本输出相关: faq/textinfo.md
     - 网页输出相关: faq/webinfo.md
+    - 其他: faq/other.md
   - 开发文档:
     - 软件架构: development/index.md
     - Websocket通信:
