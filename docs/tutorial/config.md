@@ -28,6 +28,11 @@
 **EnableSMC**: 是否启用SMTC(windows system media transport control), 对于旧版本windows可能不兼容，`true` 表示启用，`false` 表示不启用。
 
 
+## [Experimental]
+实验性功能
+
+**Headless**:  无gui模式，默认为`false`，`true`代表不开启`gui`，可以在服务器上等无gui环境中开启。
+
 ## [Log]
 日志配置。
 
