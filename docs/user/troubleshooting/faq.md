@@ -18,7 +18,7 @@
 
 可以，但是只支持全局点歌命令，来源点歌命令暂时不支持。
 
-具体请看[点歌设置](../tutorial/config.md/#diange)
+具体请看[点歌设置](/user/others/config#diange)
 
 **Q: 可以导入哪些平台的歌单**
 
@@ -32,13 +32,13 @@
 
 这些歌为网易云的vip歌曲，没有登陆或者没有vip的情况下只有30秒试听。
 
-如果你需要完整版，可以登陆你的网易云vip帐号，具体登陆方式请看: [歌曲源登陆](../tutorial/source_login.md)
+如果你需要完整版，可以登陆你的网易云vip帐号，具体登陆方式请看: [歌曲源登陆](/user/tutorials/source_login.md)
 
 **Q: 为什么我网易云登陆了还是只有30秒**
 
 首先，确认你是否真的登陆了。在`1.0.9`版本后，在来源登陆界面登陆之后，在下拉菜单中选择netease之后右边会出现 `已登陆` 的字样。
 
-请仔细阅读 [歌曲源登陆](../tutorial/source_login.md)，扫码完成后，需要<span style="font-size:4em;">点击</span> *完成扫描后按我*按钮。
+请仔细阅读 [歌曲源登陆](/user/tutorials/source_login.md)，扫码完成后，需要<span style="font-size:4em;">点击</span> *完成扫描后按我*按钮。
 
 只有当你看到`授权登陆成功`字样跳出来才算登陆成功
 
@@ -48,7 +48,7 @@
 
 在确认你没连接错之后，可以尝试更换弹幕服务器。
 
-具体请看 [弹幕服务器配置](../tutorial/config.md/#liveroom)
+具体请看 [弹幕服务器配置](/user/others/config#liveroom)
 
 **Q: 怎么设置随机播放**
 

@@ -1,3 +1,8 @@
+---
+layout: doc
+title: 文本输出
+---
+::: v-pre
 # 文本输出
 
 ## 开启文本输出
@@ -82,3 +87,5 @@ This night is cold in the kingdom
 | `{{ .Username }}`        | 播放列表中的点歌用户名              |
 
 `{{end}}`
+
+:::

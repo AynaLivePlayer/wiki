@@ -1,0 +1,14 @@
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #42b8f4, #4fd1c5);
+  --vp-c-brand: #42b8f4;
+  --vp-button-brand-bg: #42b8f4;
+}
+
+/* 特性卡片动画 */
+.VPFeature {
+  transition: transform 0.25s;
+}
+.VPFeature:hover {
+  transform: translateY(-5px);
+}
