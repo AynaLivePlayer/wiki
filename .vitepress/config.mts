@@ -56,11 +56,12 @@ export default defineConfig({
     // 导航栏配置
     nav: [
       { text: '用户手册', link: '/user/getting-started/', activeMatch: '/user/'},
+      { text: '开发者手册', link: '/develop/', activeMatch: '/develop/'},
       // { 
       //   text: '开发者手册', 
       //   items: [
-      //     { text: 'API文档', link: '/6-development/api/websocket' },
-      //     { text: '贡献指南', link: '/6-development/contributing' }
+      //     { text: 'API文档', link: '/develop/api/websocket' },
+      //     { text: '贡献指南', link: '/develop/contributing' }
       //   ]
       // },
       { text: '附录', link: '/appendix/changelog', activeMatch: '/appendix/' },
@@ -130,7 +131,29 @@ export default defineConfig({
           text: '其他',
           collapsed: true,
           items: [
-            { text: '配置文件', link: '/user/others/config' },
+            { text: '配置文件说明', link: '/user/others/config' },
+          ]
+        }
+      ],
+      '/develop/': [
+        {
+          text: '总览',
+          link: '/develop/'
+        },
+        {
+          text: '本体开发',
+          collapsed: true,
+          items: [
+            { text: '总览', link: '/develop/main' },
+          ]
+        },
+        {
+          text: 'Miaosic音源',
+          collapsed: true,
+          items: [
+          { text: 'Miaosic音源', link: '/develop/miaosic' },
+            { text: '命令行测试工具', link: '/develop/miaosic/cmd' },
+            { text: '免责声明', link: '/develop/miaosic/disclaimer' },
           ]
         }
       ],
