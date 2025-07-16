@@ -32,11 +32,13 @@ title: 配置文件说明
 
 **EnableSMC**: 是否启用SMTC(windows system media transport control), 对于旧版本windows可能不兼容，`true` 表示启用，`false` 表示不启用。
 
+**CustomFonts**: 使用自定义的字体文件，字体文件需要放在`./assets`目录下，比如设置为`msyh.ttc`，则会读取`./assets/msyh.ttc`文件
 
 ## [Experimental]
 实验性功能
 
 **Headless**:  无gui模式，默认为`false`，`true`代表不开启`gui`，可以在服务器上等无gui环境中开启。
+**PlayerCore**： 选择播放器核心，默认为`mpv`，可以切换成`vlc`(实验性)
 
 ## [Log]
 日志配置。
