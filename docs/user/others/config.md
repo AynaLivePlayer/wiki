@@ -38,6 +38,7 @@ title: 配置文件说明
 实验性功能
 
 **Headless**:  无gui模式，默认为`false`，`true`代表不开启`gui`，可以在服务器上等无gui环境中开启。
+
 **PlayerCore**： 选择播放器核心，默认为`mpv`，可以切换成`vlc`(实验性)
 
 ## [Log]
