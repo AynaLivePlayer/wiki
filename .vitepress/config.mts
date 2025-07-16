@@ -132,6 +132,7 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: '配置文件说明', link: '/user/others/config' },
+            { text: 'API服务器', link: '/user/others/api' },
           ]
         }
       ],
