@@ -11,7 +11,11 @@ title: 安装与升级
    - 访问 [B站幻星卡西米尔唱片机页面](https://play-live.bilibili.com/details/1661006726438)
    - ⚠️ 更新可能有1-3天延迟（受审核影响）
 
-2. **QQ群即时更新**  
+2. **Github Action自动编译**
+   - 访问 [actions](https://github.com/AynaLivePlayer/AynaLivePlayer/actions)  
+   - 最新版本，不保证是否会有问题
+
+3. **QQ群即时更新**  
    - 加QQ群 `621035845`
    - 在群文件找最新版本下载
    - 📌 群内版本通常比B站早更新1-2天

@@ -75,6 +75,7 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: '简介', link: '/user/getting-started/' },
+            { text: '通告', link: '/user/getting-started/notice' },
             { text: '安装与升级', link: '/user/getting-started/installation' },
             { text: '视频教程', link: '/user/getting-started/video' },
             // { text: '首次配置', link: '/started/configuration' },
@@ -97,7 +98,8 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: '文本输出', link: '/user/features/textinfo' },
-            { text: '网页输出', link: '/user/features/webinfo' }
+            { text: '网页输出', link: '/user/features/webinfo' },
+            { text: 'NowPlaying', link: '/user/features/nowplaying' }
           ]
         },
         {
